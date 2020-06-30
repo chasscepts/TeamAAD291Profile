@@ -1,0 +1,11 @@
+<resources>
+  <string name="app_name">TeamAAD291Profile</string>
+  <string name="ucf_profile_image">Profile Image</string>
+  <string name="my_name">Obetta Francis</string>
+  <string name="ucf_track">Track</string>
+  <string name="track_label">Track:</string>
+  <string name="slack_username_label">Slack Username:</string>
+  <string name="country_label">Country</string>
+  <string name="phone_number_label">Phone Number:</string>
+  <string name="email_label">Email:</string>
+</resources>

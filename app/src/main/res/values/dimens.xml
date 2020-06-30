@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="dim_100dp">100dp</dimen>
+  <dimen name="profile_picture_size">120dp</dimen>
+  <dimen name="main_label_dim">90dp</dimen>
+  <dimen name="main_font_size">14sp</dimen>
+</resources>
